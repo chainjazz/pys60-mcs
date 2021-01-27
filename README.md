@@ -29,7 +29,8 @@ like to revive it in the near future.
 mobile device (using editor called Ped), and it follows that code 
 documentation was *not a priority*.
 Furthermore, due to limited screen space, the variable naming style had to be
-as cryptic as possible. Sorry, not sorry.**
+as cryptic as possible. Sorry, not sorry. *That being said*, the code also had
+to be short, so it is more likely to be *self explanatory***
 
 The main script is called "mcs.py".
 
