@@ -26,11 +26,14 @@ It is not a finished project, but I would
 like to revive it in the near future.
 
 **Please consider this application was written *entirely* on a
-mobile device (using editor called Ped), and it follows that code 
+mobile device (using editor called [Ped]; still available on Google code archive), 
+and it follows that code 
 documentation was *not a priority*.
 Furthermore, due to limited screen space, the variable naming style had to be
 as cryptic as possible. Sorry, not sorry. *That being said*, the code also had
 to be short, so it is more likely to be *self explanatory***
+
+[Ped]: https://code.google.com/archive/p/ped-s60/
 
 The main script is called "mcs.py".
 
