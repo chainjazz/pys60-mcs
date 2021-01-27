@@ -25,8 +25,8 @@ and install it as an unsigned binary.
 It is not a finished project, but I would
 like to revive it in the near future.
 
-*** Please consider thsi application was written *entirely* on a
-mobile device, and it follows that code documentation was *not a priority* ***
+***Please consider thsi application was written *entirely* on a
+mobile device, and it follows that code documentation was *not a priority****
 
 The main script is called "mcs.py".
 
