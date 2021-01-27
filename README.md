@@ -1,9 +1,14 @@
 # pys60-mcs
 Music Composition System for S60 Symbian
 
+*NOTE: If you don't have a clue about Symbian or PyS60,
+you're out of luck. This is an ohmage to [PyS60]*
+
 Written entirely on the mobile device,
 this is a system for generating synthesized
 melodies, by exporting them to wavefiles.
+
+[PyS60]: https://en.wikipedia.org/wiki/Python_for_S60
 
 It has been tested to work on Nokia N70,
 which it was written on.
